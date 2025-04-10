@@ -1,0 +1,18 @@
+
+spring:
+  application:
+    name: mcp-client
+  ai:
+    mcp:
+      client:
+        name: ai-mcp-client
+        initialized: true
+        type: ASYNC
+        sse:
+          connections:
+            server1:
+              url: http://127.0.0.1:8080
+    dashscope:
+      api-key: sk-a962d14acb334e2dbf4917fc4f2eef83
+server:
+  port: 8081

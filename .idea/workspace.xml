@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f388494a-f89a-4373-9975-bf14b084d9f9" name="更改" comment="feat: 添加 MCP 客户端和服务器模块&#10;&#10;- 新增 mcp-client 和 mcp-server 模块&#10;- 配置 application.yml 文件&#10;- 添加工具类和控制器&#10;- 创建 Spring Boot 应用" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2vW62RJPwp6MLmWYAE0cwFvWE1w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.mcp-server [clean].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.McpClientApplication.executor": "Run",
+    "Spring Boot.McpServerApplication.executor": "Run",
+    "Spring Boot.SpringAiDemoApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/liubo/Documents/ideaProjects/SpringAIDemo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.CommonTool.executor": "Run"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="KtorApplicationConfigurationType" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.CommonTool">
+    <configuration name="CommonTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.mcpserver.tool.CommonTool" />
+      <module name="mcp-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mcpserver.tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="McpClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mcp-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.mcpclient.McpClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="McpServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mcp-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.mcpserver.McpServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringAiDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="SpringAIDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.springaidemo.SpringAiDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.CommonTool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f388494a-f89a-4373-9975-bf14b084d9f9" name="更改" comment="" />
+      <created>1744248276169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744248276169</updated>
+      <workItem from="1744248277166" duration="12700000" />
+      <workItem from="1744270490357" duration="36000" />
+      <workItem from="1744270531217" duration="164000" />
+      <workItem from="1744270701046" duration="45000" />
+      <workItem from="1744270752381" duration="2678000" />
+      <workItem from="1744273826735" duration="804000" />
+      <workItem from="1744274636931" duration="124000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: 添加 MCP 客户端和服务器模块&#10;&#10;- 新增 mcp-client 和 mcp-server 模块&#10;- 配置 application.yml 文件&#10;- 添加工具类和控制器&#10;- 创建 Spring Boot 应用">
+      <option name="closed" value="true" />
+      <created>1744272769964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744272769964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 添加 MCP 客户端和服务器模块&#10;&#10;- 新增 mcp-client 和 mcp-server 模块&#10;- 配置 application.yml 文件&#10;- 添加工具类和控制器&#10;- 创建 Spring Boot 应用">
+      <option name="closed" value="true" />
+      <created>1744273852938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744273852938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 添加 MCP 客户端和服务器模块&#10;&#10;- 新增 mcp-client 和 mcp-server 模块&#10;- 配置 application.yml 文件&#10;- 添加工具类和控制器&#10;- 创建 Spring Boot 应用" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 添加 MCP 客户端和服务器模块&#10;&#10;- 新增 mcp-client 和 mcp-server 模块&#10;- 配置 application.yml 文件&#10;- 添加工具类和控制器&#10;- 创建 Spring Boot 应用" />
+  </component>
+</project>
